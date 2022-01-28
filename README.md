@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @seanamani
-- 👀 I’m interested in Web Applications 
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me seanamani.sa@gmail.com
+- 👀 I’m interested in all things crypto. I'm striving to be a fullstack etherium developer.
+- 🌱 I’m currently learning Solidty
+- 💞️ I’m looking to collaborate on smart contracts
+- 📫 How to reach me seanemile.se@protonmail.com
 
 <!---
 seanamani/seanamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
